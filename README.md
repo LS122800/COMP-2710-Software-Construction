@@ -7,7 +7,7 @@ whatever is left is used to pay part of the remaining debt. Hence, the first mon
 1.5% of $1000 in interest. That is $15 in interest. The remaining $35 is deducted from your 
 debt, which leaves you with a debt of $965.00. The next month you pay interest of 1.5% 
 of $965.00, which is $14.48. Hence, you can deduct $35.52 (which is $50–$14.48) from 
-the amount you owe.  
+the amount you owe.
  
 Write a program that will tell you how many months it will take you to pay off this loan in 
 particular and any loan in general. Your program also needs to calculate the total amount 
@@ -18,7 +18,7 @@ iterations and hence the number of months until the debt is zero. You may want t
 other variables as well. The last payment may be less than $50 if the debt is small, but do 
 not forget the interest. If you owe $50, then your monthly payment of $50 will not pay 
 off your debt, although it will come close. One month’s interest on $50 is only 75 cents.
-
+Grade: 100/100
 
 
 Project 2: In the land of Puzzlevania, Aaron, Bob, and Charlie had an argument over which one of 
@@ -49,14 +49,14 @@ Aaron your might output "Aaron won 3612/10000 duels or 36.12%).
 Strategy 2: An alternative strategy for Aaron is to intentionally miss on his first shot. 
 Write a function to simulate Strategy 2. Your program will determine which strategy is 
 better for Aaron.
-
+Grade: 100/100
 
 Project 3: Write a program that merges the numbers in two files and writes all the numbers into a 
 third file. Your program takes input from two different files and writes its output to a 
 third file. Each input file contains a list of numbers of type int in sorted order from the 
 smallest to the largest. After the program is run, the output file will contain all the 
 numbers in the two input files in one longer list in sorted order from smallest to largest.
-
+Grade: 97/100
 
 Project 4: In	this	homework	assignment,	you	will	write	a	simple	trivia	quiz	game.	Your program	first	allows	
 players	to	create	their	trivia	questions	and	answers.	Multiple	questions	should	be	organized	and	
@@ -65,10 +65,11 @@ Then,	your	program	asks	a	question	 to	 the	player,	input	 the	player’s	answer
 player’s	answer	matches	 the	actual	answer.	If	 so,	award	the	player	 the	award	points	 for	 that	
 question.	If	the	player	enters	the	wrong	answer	your	program	should	display	the	correct	answer.	
 When	all	questions	have	been	asked, display	the	total award	points that	the	player	has	won.
-
+Grade: 100/100
 
 Project 5: Read the source code and the rest comments, try to understand the function of each line of code, 
 the basic usage of `pthread` library function and semaphore from the example code of producer 
 and from the main function. 
 Follow the instructions in the comments and insert proper code into the rest 7 blocks to implement 
 a producer/consumer model.  
+Grade: 100/100
