@@ -1,4 +1,6 @@
 # COMP-2710-Software-Construction
+# AUBURN CS/SE STUDENTS - DO NOT LOOK AT THIS. This Repo is for my personal storage and showcase. You learn nothing from cheating and it will only hurt you in the long run.
+
 
 Project 1: You have just purchased a stereo system that cost $1000 on the following credit plan: no 
 down  payment,  an  interest  rate  of  18%  per  year  (and  hence  1.5%  per  month),  and 
